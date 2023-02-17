@@ -1,0 +1,8 @@
+click==8.0.1
+black==21.7b0
+flake8==3.9.2
+pytest==6.2.4
+pytest-dependency==0.5.1
+scipy==1.7.0
+numpy==1.21.1
+flaky==3.7.0
